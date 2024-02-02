@@ -5,7 +5,7 @@ public class Test {
     // Felder (fields) | Attribute, Eigenschaften
     // private --> Kapselung / encapsulation/ data hiding
 
-    private String name;
+    private String name; // in den unterklassen am besten immer privat
     private int age;
 
     public Test(String name, int age) {
